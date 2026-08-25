@@ -1,0 +1,3165 @@
+{
+  "colors": {
+    "hermosa-pink": {
+      "name": "Hermosa Pink",
+      "hex": "#f7c9d5",
+      "rgb01": [
+        0.968627,
+        0.788235,
+        0.835294
+      ]
+    },
+    "corinthian-pink": {
+      "name": "Corinthian Pink",
+      "hex": "#f6bdc1",
+      "rgb01": [
+        0.964706,
+        0.741176,
+        0.756863
+      ]
+    },
+    "cameo-pink": {
+      "name": "Cameo Pink",
+      "hex": "#e5bcbc",
+      "rgb01": [
+        0.898039,
+        0.737255,
+        0.737255
+      ]
+    },
+    "fawn": {
+      "name": "Fawn",
+      "hex": "#d6b8aa",
+      "rgb01": [
+        0.839216,
+        0.721569,
+        0.666667
+      ]
+    },
+    "light-brown-drab": {
+      "name": "Light Brown Drab",
+      "hex": "#c1a19e",
+      "rgb01": [
+        0.756863,
+        0.631373,
+        0.619608
+      ]
+    },
+    "coral-red": {
+      "name": "Coral Red",
+      "hex": "#f09082",
+      "rgb01": [
+        0.941176,
+        0.564706,
+        0.509804
+      ]
+    },
+    "fresh-color": {
+      "name": "Fresh Color",
+      "hex": "#f1947c",
+      "rgb01": [
+        0.945098,
+        0.580392,
+        0.486275
+      ]
+    },
+    "grenadine-pink": {
+      "name": "Grenadine Pink",
+      "hex": "#ef805f",
+      "rgb01": [
+        0.937255,
+        0.501961,
+        0.372549
+      ]
+    },
+    "eosine-pink": {
+      "name": "Eosine Pink",
+      "hex": "#ed7e92",
+      "rgb01": [
+        0.929412,
+        0.494118,
+        0.572549
+      ]
+    },
+    "spinel-red": {
+      "name": "Spinel Red",
+      "hex": "#ec6e8d",
+      "rgb01": [
+        0.92549,
+        0.431373,
+        0.552941
+      ]
+    },
+    "old-rose": {
+      "name": "Old Rose",
+      "hex": "#d56a75",
+      "rgb01": [
+        0.835294,
+        0.415686,
+        0.458824
+      ]
+    },
+    "eugenia-red-a": {
+      "name": "Eugenia Red | A",
+      "hex": "#e05d53",
+      "rgb01": [
+        0.878431,
+        0.364706,
+        0.32549
+      ]
+    },
+    "eugenia-red-b": {
+      "name": "Eugenia Red | B",
+      "hex": "#db4f58",
+      "rgb01": [
+        0.858824,
+        0.309804,
+        0.345098
+      ]
+    },
+    "raw-sienna": {
+      "name": "Raw Sienna",
+      "hex": "#c37608",
+      "rgb01": [
+        0.764706,
+        0.462745,
+        0.031373
+      ]
+    },
+    "vinaceous-tawny": {
+      "name": "Vinaceous Tawny",
+      "hex": "#cb6012",
+      "rgb01": [
+        0.796078,
+        0.376471,
+        0.070588
+      ]
+    },
+    "jasper-red": {
+      "name": "Jasper Red",
+      "hex": "#e74c0a",
+      "rgb01": [
+        0.905882,
+        0.298039,
+        0.039216
+      ]
+    },
+    "spectrum-red": {
+      "name": "Spectrum Red",
+      "hex": "#df0716",
+      "rgb01": [
+        0.87451,
+        0.027451,
+        0.086275
+      ]
+    },
+    "red-orange": {
+      "name": "Red Orange",
+      "hex": "#db3915",
+      "rgb01": [
+        0.858824,
+        0.223529,
+        0.082353
+      ]
+    },
+    "etruscan-red": {
+      "name": "Etruscan Red",
+      "hex": "#ca503d",
+      "rgb01": [
+        0.792157,
+        0.313725,
+        0.239216
+      ]
+    },
+    "burnt-sienna": {
+      "name": "Burnt Sienna",
+      "hex": "#b65115",
+      "rgb01": [
+        0.713725,
+        0.317647,
+        0.082353
+      ]
+    },
+    "ochre-red": {
+      "name": "Ochre Red",
+      "hex": "#b45447",
+      "rgb01": [
+        0.705882,
+        0.329412,
+        0.278431
+      ]
+    },
+    "scarlet": {
+      "name": "Scarlet",
+      "hex": "#cf2438",
+      "rgb01": [
+        0.811765,
+        0.141176,
+        0.219608
+      ]
+    },
+    "carmine": {
+      "name": "Carmine",
+      "hex": "#cd002d",
+      "rgb01": [
+        0.803922,
+        0.0,
+        0.176471
+      ]
+    },
+    "indian-lake": {
+      "name": "Indian Lake",
+      "hex": "#c93465",
+      "rgb01": [
+        0.788235,
+        0.203922,
+        0.396078
+      ]
+    },
+    "rosolanc-purple": {
+      "name": "Rosolanc Purple",
+      "hex": "#b8366d",
+      "rgb01": [
+        0.721569,
+        0.211765,
+        0.427451
+      ]
+    },
+    "pomegranite-purple": {
+      "name": "Pomegranite Purple",
+      "hex": "#bc0b50",
+      "rgb01": [
+        0.737255,
+        0.043137,
+        0.313725
+      ]
+    },
+    "hydrangea-red": {
+      "name": "Hydrangea Red",
+      "hex": "#ab3a45",
+      "rgb01": [
+        0.670588,
+        0.227451,
+        0.270588
+      ]
+    },
+    "brick-red": {
+      "name": "Brick Red",
+      "hex": "#b03f16",
+      "rgb01": [
+        0.690196,
+        0.247059,
+        0.086275
+      ]
+    },
+    "carmine-red": {
+      "name": "Carmine Red",
+      "hex": "#ad242f",
+      "rgb01": [
+        0.678431,
+        0.141176,
+        0.184314
+      ]
+    },
+    "pompeian-red": {
+      "name": "Pompeian Red",
+      "hex": "#b31831",
+      "rgb01": [
+        0.701961,
+        0.094118,
+        0.192157
+      ]
+    },
+    "red": {
+      "name": "Red",
+      "hex": "#ad153b",
+      "rgb01": [
+        0.678431,
+        0.082353,
+        0.231373
+      ]
+    },
+    "brown": {
+      "name": "Brown",
+      "hex": "#86431f",
+      "rgb01": [
+        0.52549,
+        0.262745,
+        0.121569
+      ]
+    },
+    "hay-s-russet": {
+      "name": "Hay's Russet",
+      "hex": "#833121",
+      "rgb01": [
+        0.513725,
+        0.192157,
+        0.129412
+      ]
+    },
+    "vandyke-red": {
+      "name": "Vandyke Red",
+      "hex": "#8c1d19",
+      "rgb01": [
+        0.54902,
+        0.113725,
+        0.098039
+      ]
+    },
+    "pansy-purple": {
+      "name": "Pansy Purple",
+      "hex": "#870836",
+      "rgb01": [
+        0.529412,
+        0.031373,
+        0.211765
+      ]
+    },
+    "pale-burnt-lake": {
+      "name": "Pale Burnt Lake",
+      "hex": "#8a2422",
+      "rgb01": [
+        0.541176,
+        0.141176,
+        0.133333
+      ]
+    },
+    "violet-red": {
+      "name": "Violet Red",
+      "hex": "#5e2658",
+      "rgb01": [
+        0.368627,
+        0.14902,
+        0.345098
+      ]
+    },
+    "vistoris-lake": {
+      "name": "Vistoris Lake",
+      "hex": "#784244",
+      "rgb01": [
+        0.470588,
+        0.258824,
+        0.266667
+      ]
+    },
+    "sulpher-yellow": {
+      "name": "Sulpher Yellow",
+      "hex": "#f8f2c8",
+      "rgb01": [
+        0.972549,
+        0.94902,
+        0.784314
+      ]
+    },
+    "pale-lemon-yellow": {
+      "name": "Pale Lemon Yellow",
+      "hex": "#fff3b2",
+      "rgb01": [
+        1.0,
+        0.952941,
+        0.698039
+      ]
+    },
+    "naples-yellow": {
+      "name": "Naples Yellow",
+      "hex": "#fbeca3",
+      "rgb01": [
+        0.984314,
+        0.92549,
+        0.639216
+      ]
+    },
+    "ivory-buff": {
+      "name": "Ivory Buff",
+      "hex": "#efdba5",
+      "rgb01": [
+        0.937255,
+        0.858824,
+        0.647059
+      ]
+    },
+    "seashell-pink": {
+      "name": "Seashell Pink",
+      "hex": "#fbdcc4",
+      "rgb01": [
+        0.984314,
+        0.862745,
+        0.768627
+      ]
+    },
+    "light-pinkish-cinnamon": {
+      "name": "Light Pinkish Cinnamon",
+      "hex": "#face9d",
+      "rgb01": [
+        0.980392,
+        0.807843,
+        0.615686
+      ]
+    },
+    "pinkish-cinnamon": {
+      "name": "Pinkish Cinnamon",
+      "hex": "#efbc7e",
+      "rgb01": [
+        0.937255,
+        0.737255,
+        0.494118
+      ]
+    },
+    "cinnamon-buff": {
+      "name": "Cinnamon Buff",
+      "hex": "#fbcc7a",
+      "rgb01": [
+        0.984314,
+        0.8,
+        0.478431
+      ]
+    },
+    "cream-yellow": {
+      "name": "Cream Yellow",
+      "hex": "#fac55f",
+      "rgb01": [
+        0.980392,
+        0.772549,
+        0.372549
+      ]
+    },
+    "golden-yellow": {
+      "name": "Golden Yellow",
+      "hex": "#f2a84b",
+      "rgb01": [
+        0.94902,
+        0.658824,
+        0.294118
+      ]
+    },
+    "vinaceous-cinnamon": {
+      "name": "Vinaceous Cinnamon",
+      "hex": "#efae8d",
+      "rgb01": [
+        0.937255,
+        0.682353,
+        0.552941
+      ]
+    },
+    "ochraceous-salmon": {
+      "name": "Ochraceous Salmon",
+      "hex": "#dcab77",
+      "rgb01": [
+        0.862745,
+        0.670588,
+        0.466667
+      ]
+    },
+    "isabella-color": {
+      "name": "Isabella Color",
+      "hex": "#d0b16c",
+      "rgb01": [
+        0.815686,
+        0.694118,
+        0.423529
+      ]
+    },
+    "maple": {
+      "name": "Maple",
+      "hex": "#d0ac6b",
+      "rgb01": [
+        0.815686,
+        0.67451,
+        0.419608
+      ]
+    },
+    "olive-buff": {
+      "name": "Olive Buff",
+      "hex": "#ced19b",
+      "rgb01": [
+        0.807843,
+        0.819608,
+        0.607843
+      ]
+    },
+    "ecru": {
+      "name": "Ecru",
+      "hex": "#ccb998",
+      "rgb01": [
+        0.8,
+        0.72549,
+        0.596078
+      ]
+    },
+    "yellow": {
+      "name": "Yellow",
+      "hex": "#fff100",
+      "rgb01": [
+        1.0,
+        0.945098,
+        0.0
+      ]
+    },
+    "lemon-yellow": {
+      "name": "Lemon Yellow",
+      "hex": "#f9ee28",
+      "rgb01": [
+        0.976471,
+        0.933333,
+        0.156863
+      ]
+    },
+    "apricot-yellow": {
+      "name": "Apricot Yellow",
+      "hex": "#ffe100",
+      "rgb01": [
+        1.0,
+        0.882353,
+        0.0
+      ]
+    },
+    "pyrite-yellow": {
+      "name": "Pyrite Yellow",
+      "hex": "#cfb948",
+      "rgb01": [
+        0.811765,
+        0.72549,
+        0.282353
+      ]
+    },
+    "olive-ocher": {
+      "name": "Olive Ocher",
+      "hex": "#dabb26",
+      "rgb01": [
+        0.854902,
+        0.733333,
+        0.14902
+      ]
+    },
+    "yellow-ocher": {
+      "name": "Yellow Ocher",
+      "hex": "#e5bc2a",
+      "rgb01": [
+        0.898039,
+        0.737255,
+        0.164706
+      ]
+    },
+    "orange-yellow": {
+      "name": "Orange Yellow",
+      "hex": "#f9b900",
+      "rgb01": [
+        0.976471,
+        0.72549,
+        0.0
+      ]
+    },
+    "yellow-orange": {
+      "name": "Yellow Orange",
+      "hex": "#f5a100",
+      "rgb01": [
+        0.960784,
+        0.631373,
+        0.0
+      ]
+    },
+    "apricot-orange": {
+      "name": "Apricot Orange",
+      "hex": "#f18f44",
+      "rgb01": [
+        0.945098,
+        0.560784,
+        0.266667
+      ]
+    },
+    "orange": {
+      "name": "Orange",
+      "hex": "#ed7100",
+      "rgb01": [
+        0.929412,
+        0.443137,
+        0.0
+      ]
+    },
+    "peach-red": {
+      "name": "Peach Red",
+      "hex": "#ea5521",
+      "rgb01": [
+        0.917647,
+        0.333333,
+        0.129412
+      ]
+    },
+    "english-red": {
+      "name": "English Red",
+      "hex": "#d86310",
+      "rgb01": [
+        0.847059,
+        0.388235,
+        0.062745
+      ]
+    },
+    "cinnamon-rufous": {
+      "name": "Cinnamon Rufous",
+      "hex": "#c97838",
+      "rgb01": [
+        0.788235,
+        0.470588,
+        0.219608
+      ]
+    },
+    "orange-rufous": {
+      "name": "Orange Rufous",
+      "hex": "#c86c0e",
+      "rgb01": [
+        0.784314,
+        0.423529,
+        0.054902
+      ]
+    },
+    "sulphine-yellow": {
+      "name": "Sulphine Yellow",
+      "hex": "#c8a800",
+      "rgb01": [
+        0.784314,
+        0.658824,
+        0.0
+      ]
+    },
+    "khaki": {
+      "name": "Khaki",
+      "hex": "#c49007",
+      "rgb01": [
+        0.768627,
+        0.564706,
+        0.027451
+      ]
+    },
+    "citron-yellow": {
+      "name": "Citron Yellow",
+      "hex": "#b7bc21",
+      "rgb01": [
+        0.717647,
+        0.737255,
+        0.129412
+      ]
+    },
+    "citrine": {
+      "name": "Citrine",
+      "hex": "#b4a414",
+      "rgb01": [
+        0.705882,
+        0.643137,
+        0.078431
+      ]
+    },
+    "buffy-citrine": {
+      "name": "Buffy Citrine",
+      "hex": "#9e8e43",
+      "rgb01": [
+        0.619608,
+        0.556863,
+        0.262745
+      ]
+    },
+    "dark-citrine": {
+      "name": "Dark Citrine",
+      "hex": "#978c56",
+      "rgb01": [
+        0.592157,
+        0.54902,
+        0.337255
+      ]
+    },
+    "light-grayish-olive": {
+      "name": "Light Grayish Olive",
+      "hex": "#8e885f",
+      "rgb01": [
+        0.556863,
+        0.533333,
+        0.372549
+      ]
+    },
+    "krongbergs-green": {
+      "name": "Krongbergs Green",
+      "hex": "#8c8e58",
+      "rgb01": [
+        0.54902,
+        0.556863,
+        0.345098
+      ]
+    },
+    "olive": {
+      "name": "Olive",
+      "hex": "#8a851f",
+      "rgb01": [
+        0.541176,
+        0.521569,
+        0.121569
+      ]
+    },
+    "orange-citrine": {
+      "name": "Orange Citrine",
+      "hex": "#a37821",
+      "rgb01": [
+        0.639216,
+        0.470588,
+        0.129412
+      ]
+    },
+    "sudan-brown": {
+      "name": "Sudan Brown",
+      "hex": "#ad6b4c",
+      "rgb01": [
+        0.678431,
+        0.419608,
+        0.298039
+      ]
+    },
+    "olive-green": {
+      "name": "Olive Green",
+      "hex": "#71773a",
+      "rgb01": [
+        0.443137,
+        0.466667,
+        0.227451
+      ]
+    },
+    "light-brownish-olive": {
+      "name": "Light Brownish Olive",
+      "hex": "#8b7546",
+      "rgb01": [
+        0.545098,
+        0.458824,
+        0.27451
+      ]
+    },
+    "deep-grayish-olive": {
+      "name": "Deep Grayish Olive",
+      "hex": "#6d6136",
+      "rgb01": [
+        0.427451,
+        0.380392,
+        0.211765
+      ]
+    },
+    "pale-raw-umber": {
+      "name": "Pale Raw Umber",
+      "hex": "#7a5329",
+      "rgb01": [
+        0.478431,
+        0.32549,
+        0.160784
+      ]
+    },
+    "sepia": {
+      "name": "Sepia",
+      "hex": "#6d4f14",
+      "rgb01": [
+        0.427451,
+        0.309804,
+        0.078431
+      ]
+    },
+    "madder-brown": {
+      "name": "Madder Brown",
+      "hex": "#802911",
+      "rgb01": [
+        0.501961,
+        0.160784,
+        0.066667
+      ]
+    },
+    "mars-brown-tobacco": {
+      "name": "Mars Brown / Tobacco",
+      "hex": "#703509",
+      "rgb01": [
+        0.439216,
+        0.207843,
+        0.035294
+      ]
+    },
+    "vandyke-brown": {
+      "name": "Vandyke Brown",
+      "hex": "#513412",
+      "rgb01": [
+        0.317647,
+        0.203922,
+        0.070588
+      ]
+    },
+    "turquoise-green": {
+      "name": "Turquoise Green",
+      "hex": "#c0e1ce",
+      "rgb01": [
+        0.752941,
+        0.882353,
+        0.807843
+      ]
+    },
+    "glaucous-green": {
+      "name": "Glaucous Green",
+      "hex": "#bed4c7",
+      "rgb01": [
+        0.745098,
+        0.831373,
+        0.780392
+      ]
+    },
+    "dark-greenish-glaucous": {
+      "name": "Dark Greenish Glaucous",
+      "hex": "#bfc9ac",
+      "rgb01": [
+        0.74902,
+        0.788235,
+        0.67451
+      ]
+    },
+    "yellow-green": {
+      "name": "Yellow Green",
+      "hex": "#b6d564",
+      "rgb01": [
+        0.713725,
+        0.835294,
+        0.392157
+      ]
+    },
+    "light-green-yellow": {
+      "name": "Light Green Yellow",
+      "hex": "#ccd53c",
+      "rgb01": [
+        0.8,
+        0.835294,
+        0.235294
+      ]
+    },
+    "night-green": {
+      "name": "Night Green",
+      "hex": "#88c122",
+      "rgb01": [
+        0.533333,
+        0.756863,
+        0.133333
+      ]
+    },
+    "olive-yellow": {
+      "name": "Olive Yellow",
+      "hex": "#aaa64d",
+      "rgb01": [
+        0.666667,
+        0.65098,
+        0.301961
+      ]
+    },
+    "artemesia-green": {
+      "name": "Artemesia Green",
+      "hex": "#759894",
+      "rgb01": [
+        0.458824,
+        0.596078,
+        0.580392
+      ]
+    },
+    "andover-green": {
+      "name": "Andover Green",
+      "hex": "#6f8278",
+      "rgb01": [
+        0.435294,
+        0.509804,
+        0.470588
+      ]
+    },
+    "rainette-green": {
+      "name": "Rainette Green",
+      "hex": "#9aa96e",
+      "rgb01": [
+        0.603922,
+        0.662745,
+        0.431373
+      ]
+    },
+    "chromium-green": {
+      "name": "Chromium Green",
+      "hex": "#7b9c6f",
+      "rgb01": [
+        0.482353,
+        0.611765,
+        0.435294
+      ]
+    },
+    "pistachio-green": {
+      "name": "Pistachio Green",
+      "hex": "#649278",
+      "rgb01": [
+        0.392157,
+        0.572549,
+        0.470588
+      ]
+    },
+    "sea-green": {
+      "name": "Sea Green",
+      "hex": "#00ac95",
+      "rgb01": [
+        0.0,
+        0.67451,
+        0.584314
+      ]
+    },
+    "benzol-green": {
+      "name": "Benzol Green",
+      "hex": "#009087",
+      "rgb01": [
+        0.0,
+        0.564706,
+        0.529412
+      ]
+    },
+    "light-porcelain-green": {
+      "name": "Light Porcelain Green",
+      "hex": "#008e89",
+      "rgb01": [
+        0.0,
+        0.556863,
+        0.537255
+      ]
+    },
+    "green": {
+      "name": "Green",
+      "hex": "#3a9764",
+      "rgb01": [
+        0.227451,
+        0.592157,
+        0.392157
+      ]
+    },
+    "dull-viridian-green": {
+      "name": "Dull Viridian Green",
+      "hex": "#008e5c",
+      "rgb01": [
+        0.0,
+        0.556863,
+        0.360784
+      ]
+    },
+    "oil-green": {
+      "name": "Oil Green",
+      "hex": "#849725",
+      "rgb01": [
+        0.517647,
+        0.592157,
+        0.145098
+      ]
+    },
+    "diamine-green": {
+      "name": "Diamine Green",
+      "hex": "#02733f",
+      "rgb01": [
+        0.007843,
+        0.45098,
+        0.247059
+      ]
+    },
+    "cossack-green": {
+      "name": "Cossack Green",
+      "hex": "#39793c",
+      "rgb01": [
+        0.223529,
+        0.47451,
+        0.235294
+      ]
+    },
+    "lincoln-green": {
+      "name": "Lincoln Green",
+      "hex": "#5a5c2f",
+      "rgb01": [
+        0.352941,
+        0.360784,
+        0.184314
+      ]
+    },
+    "blackish-olive": {
+      "name": "Blackish Olive",
+      "hex": "#48583e",
+      "rgb01": [
+        0.282353,
+        0.345098,
+        0.243137
+      ]
+    },
+    "deep-slate-olive": {
+      "name": "Deep Slate Olive",
+      "hex": "#253121",
+      "rgb01": [
+        0.145098,
+        0.192157,
+        0.129412
+      ]
+    },
+    "nile-blue": {
+      "name": "Nile Blue",
+      "hex": "#c8e7e9",
+      "rgb01": [
+        0.784314,
+        0.905882,
+        0.913725
+      ]
+    },
+    "pale-king-s-blue": {
+      "name": "Pale King's Blue",
+      "hex": "#b4dae9",
+      "rgb01": [
+        0.705882,
+        0.854902,
+        0.913725
+      ]
+    },
+    "light-glaucous-blue": {
+      "name": "Light Glaucous Blue",
+      "hex": "#b0cfd7",
+      "rgb01": [
+        0.690196,
+        0.811765,
+        0.843137
+      ]
+    },
+    "salvia-blue": {
+      "name": "Salvia Blue",
+      "hex": "#a2b2cd",
+      "rgb01": [
+        0.635294,
+        0.698039,
+        0.803922
+      ]
+    },
+    "cobalt-green": {
+      "name": "Cobalt Green",
+      "hex": "#a0d2a8",
+      "rgb01": [
+        0.627451,
+        0.823529,
+        0.658824
+      ]
+    },
+    "calamine-blue": {
+      "name": "Calamine BLue",
+      "hex": "#84ccd2",
+      "rgb01": [
+        0.517647,
+        0.8,
+        0.823529
+      ]
+    },
+    "venice-green": {
+      "name": "Venice Green",
+      "hex": "#68c3be",
+      "rgb01": [
+        0.407843,
+        0.764706,
+        0.745098
+      ]
+    },
+    "cerulian-blue": {
+      "name": "Cerulian Blue",
+      "hex": "#008ea5",
+      "rgb01": [
+        0.0,
+        0.556863,
+        0.647059
+      ]
+    },
+    "peacock-blue": {
+      "name": "Peacock Blue",
+      "hex": "#008c97",
+      "rgb01": [
+        0.0,
+        0.54902,
+        0.592157
+      ]
+    },
+    "green-blue": {
+      "name": "Green Blue",
+      "hex": "#008f97",
+      "rgb01": [
+        0.0,
+        0.560784,
+        0.592157
+      ]
+    },
+    "olympic-blue": {
+      "name": "Olympic Blue",
+      "hex": "#5981b5",
+      "rgb01": [
+        0.34902,
+        0.505882,
+        0.709804
+      ]
+    },
+    "blue": {
+      "name": "Blue",
+      "hex": "#0065b3",
+      "rgb01": [
+        0.0,
+        0.396078,
+        0.701961
+      ]
+    },
+    "antwarp-blue": {
+      "name": "Antwarp Blue",
+      "hex": "#006e93",
+      "rgb01": [
+        0.0,
+        0.431373,
+        0.576471
+      ]
+    },
+    "helvetia-blue": {
+      "name": "Helvetia Blue",
+      "hex": "#00558e",
+      "rgb01": [
+        0.0,
+        0.333333,
+        0.556863
+      ]
+    },
+    "dark-medici-blue": {
+      "name": "Dark Medici Blue",
+      "hex": "#527177",
+      "rgb01": [
+        0.321569,
+        0.443137,
+        0.466667
+      ]
+    },
+    "dusky-green": {
+      "name": "Dusky Green",
+      "hex": "#005247",
+      "rgb01": [
+        0.0,
+        0.321569,
+        0.278431
+      ]
+    },
+    "deep-lyons-blue": {
+      "name": "Deep Lyons Blue",
+      "hex": "#033983",
+      "rgb01": [
+        0.011765,
+        0.223529,
+        0.513725
+      ]
+    },
+    "violet-blue": {
+      "name": "Violet Blue",
+      "hex": "#373f68",
+      "rgb01": [
+        0.215686,
+        0.247059,
+        0.407843
+      ]
+    },
+    "vandar-poel-s-blue": {
+      "name": "Vandar Poel's Blue",
+      "hex": "#00486c",
+      "rgb01": [
+        0.0,
+        0.282353,
+        0.423529
+      ]
+    },
+    "dark-tyrian-blue": {
+      "name": "Dark Tyrian Blue",
+      "hex": "#0a3552",
+      "rgb01": [
+        0.039216,
+        0.207843,
+        0.321569
+      ]
+    },
+    "dull-violet-black": {
+      "name": "Dull Violet Black",
+      "hex": "#170e41",
+      "rgb01": [
+        0.090196,
+        0.054902,
+        0.254902
+      ]
+    },
+    "deep-indigo": {
+      "name": "Deep Indigo",
+      "hex": "#001231",
+      "rgb01": [
+        0.0,
+        0.070588,
+        0.192157
+      ]
+    },
+    "deep-slate-green": {
+      "name": "Deep Slate Green",
+      "hex": "#0b2f2c",
+      "rgb01": [
+        0.043137,
+        0.184314,
+        0.172549
+      ]
+    },
+    "grayish-lavender-a": {
+      "name": "Grayish Lavender - A",
+      "hex": "#c0b8db",
+      "rgb01": [
+        0.752941,
+        0.721569,
+        0.858824
+      ]
+    },
+    "grayish-lavender-b": {
+      "name": "Grayish Lavender - B",
+      "hex": "#c7b0b8",
+      "rgb01": [
+        0.780392,
+        0.690196,
+        0.721569
+      ]
+    },
+    "laelia-pink": {
+      "name": "Laelia Pink",
+      "hex": "#cf97ab",
+      "rgb01": [
+        0.811765,
+        0.592157,
+        0.670588
+      ]
+    },
+    "lilac": {
+      "name": "Lilac",
+      "hex": "#bf87b0",
+      "rgb01": [
+        0.74902,
+        0.529412,
+        0.690196
+      ]
+    },
+    "eupatorium-purple": {
+      "name": "Eupatorium Purple",
+      "hex": "#c1528e",
+      "rgb01": [
+        0.756863,
+        0.321569,
+        0.556863
+      ]
+    },
+    "light-mauve": {
+      "name": "Light Mauve",
+      "hex": "#a070a8",
+      "rgb01": [
+        0.627451,
+        0.439216,
+        0.658824
+      ]
+    },
+    "aconite-violet": {
+      "name": "Aconite Violet",
+      "hex": "#a966a2",
+      "rgb01": [
+        0.662745,
+        0.4,
+        0.635294
+      ]
+    },
+    "dull-blue-violet": {
+      "name": "Dull Blue Violet",
+      "hex": "#816e9d",
+      "rgb01": [
+        0.505882,
+        0.431373,
+        0.615686
+      ]
+    },
+    "dark-soft-violet": {
+      "name": "Dark Soft Violet",
+      "hex": "#645b99",
+      "rgb01": [
+        0.392157,
+        0.356863,
+        0.6
+      ]
+    },
+    "blue-violet": {
+      "name": "Blue Violet",
+      "hex": "#614498",
+      "rgb01": [
+        0.380392,
+        0.266667,
+        0.596078
+      ]
+    },
+    "purple-drab": {
+      "name": "Purple Drab",
+      "hex": "#8e585a",
+      "rgb01": [
+        0.556863,
+        0.345098,
+        0.352941
+      ]
+    },
+    "deep-violet-plumbeous": {
+      "name": "Deep Violet / Plumbeous",
+      "hex": "#72737c",
+      "rgb01": [
+        0.447059,
+        0.45098,
+        0.486275
+      ]
+    },
+    "veronia-purple": {
+      "name": "Veronia Purple",
+      "hex": "#94495e",
+      "rgb01": [
+        0.580392,
+        0.286275,
+        0.368627
+      ]
+    },
+    "dark-slate-purple": {
+      "name": "Dark Slate Purple",
+      "hex": "#703d51",
+      "rgb01": [
+        0.439216,
+        0.239216,
+        0.317647
+      ]
+    },
+    "taupe-brown": {
+      "name": "Taupe Brown",
+      "hex": "#854659",
+      "rgb01": [
+        0.521569,
+        0.27451,
+        0.34902
+      ]
+    },
+    "violet-carmine": {
+      "name": "Violet Carmine",
+      "hex": "#703645",
+      "rgb01": [
+        0.439216,
+        0.211765,
+        0.270588
+      ]
+    },
+    "violet": {
+      "name": "Violet",
+      "hex": "#443580",
+      "rgb01": [
+        0.266667,
+        0.207843,
+        0.501961
+      ]
+    },
+    "red-violet": {
+      "name": "Red Violet",
+      "hex": "#551c68",
+      "rgb01": [
+        0.333333,
+        0.109804,
+        0.407843
+      ]
+    },
+    "cotinga-purple": {
+      "name": "Cotinga Purple",
+      "hex": "#520e45",
+      "rgb01": [
+        0.321569,
+        0.054902,
+        0.270588
+      ]
+    },
+    "dusky-madder-violet": {
+      "name": "Dusky Madder Violet",
+      "hex": "#4d194a",
+      "rgb01": [
+        0.301961,
+        0.098039,
+        0.290196
+      ]
+    },
+    "white": {
+      "name": "White",
+      "hex": "#ffffff",
+      "rgb01": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "neutral-gray": {
+      "name": "Neutral Gray",
+      "hex": "#c0c7c6",
+      "rgb01": [
+        0.752941,
+        0.780392,
+        0.776471
+      ]
+    },
+    "mineral-gray": {
+      "name": "Mineral Gray",
+      "hex": "#afbbb5",
+      "rgb01": [
+        0.686275,
+        0.733333,
+        0.709804
+      ]
+    },
+    "warm-gray": {
+      "name": "Warm Gray",
+      "hex": "#acac9e",
+      "rgb01": [
+        0.67451,
+        0.67451,
+        0.619608
+      ]
+    },
+    "slate-color": {
+      "name": "Slate Color",
+      "hex": "#2c424a",
+      "rgb01": [
+        0.172549,
+        0.258824,
+        0.290196
+      ]
+    },
+    "black": {
+      "name": "Black",
+      "hex": "#191110",
+      "rgb01": [
+        0.098039,
+        0.066667,
+        0.062745
+      ]
+    }
+  },
+  "combinations": {
+    "1": [
+      "english-red",
+      "cerulian-blue"
+    ],
+    "2": [
+      "yellow-orange",
+      "dark-tyrian-blue"
+    ],
+    "3": [
+      "raw-sienna",
+      "pale-lemon-yellow"
+    ],
+    "4": [
+      "isabella-color",
+      "red-violet"
+    ],
+    "5": [
+      "cossack-green",
+      "vandar-poel-s-blue"
+    ],
+    "6": [
+      "grenadine-pink",
+      "deep-indigo"
+    ],
+    "7": [
+      "orange",
+      "glaucous-green"
+    ],
+    "8": [
+      "cinnamon-rufous",
+      "grayish-lavender-a"
+    ],
+    "9": [
+      "violet-red",
+      "dull-blue-violet"
+    ],
+    "10": [
+      "cinnamon-rufous",
+      "dark-citrine"
+    ],
+    "11": [
+      "ivory-buff",
+      "mineral-gray"
+    ],
+    "12": [
+      "isabella-color",
+      "green-blue"
+    ],
+    "13": [
+      "raw-sienna",
+      "veronia-purple"
+    ],
+    "14": [
+      "spinel-red",
+      "naples-yellow"
+    ],
+    "15": [
+      "benzol-green",
+      "grayish-lavender-a"
+    ],
+    "16": [
+      "vandyke-red",
+      "pale-king-s-blue"
+    ],
+    "17": [
+      "eugenia-red-b",
+      "sea-green"
+    ],
+    "18": [
+      "fawn",
+      "dusky-madder-violet"
+    ],
+    "19": [
+      "mars-brown-tobacco",
+      "night-green"
+    ],
+    "20": [
+      "calamine-blue",
+      "laelia-pink"
+    ],
+    "21": [
+      "grenadine-pink",
+      "sea-green"
+    ],
+    "22": [
+      "yellow",
+      "deep-lyons-blue"
+    ],
+    "23": [
+      "cinnamon-buff",
+      "light-mauve"
+    ],
+    "24": [
+      "sepia",
+      "veronia-purple"
+    ],
+    "25": [
+      "etruscan-red",
+      "nile-blue"
+    ],
+    "26": [
+      "golden-yellow",
+      "pale-raw-umber"
+    ],
+    "27": [
+      "corinthian-pink",
+      "slate-color"
+    ],
+    "28": [
+      "madder-brown",
+      "deep-indigo"
+    ],
+    "29": [
+      "krongbergs-green",
+      "salvia-blue"
+    ],
+    "30": [
+      "pompeian-red",
+      "mineral-gray"
+    ],
+    "31": [
+      "red-orange",
+      "pale-lemon-yellow"
+    ],
+    "32": [
+      "ochraceous-salmon",
+      "night-green"
+    ],
+    "33": [
+      "raw-sienna",
+      "slate-color"
+    ],
+    "34": [
+      "eosine-pink",
+      "neutral-gray"
+    ],
+    "35": [
+      "light-brown-drab",
+      "carmine-red"
+    ],
+    "36": [
+      "sulphine-yellow",
+      "turquoise-green"
+    ],
+    "37": [
+      "brick-red",
+      "red-violet"
+    ],
+    "38": [
+      "diamine-green",
+      "deep-lyons-blue"
+    ],
+    "39": [
+      "carmine",
+      "helvetia-blue"
+    ],
+    "40": [
+      "vinaceous-tawny",
+      "citron-yellow"
+    ],
+    "41": [
+      "dark-citrine",
+      "calamine-blue"
+    ],
+    "42": [
+      "yellow-ocher",
+      "violet"
+    ],
+    "43": [
+      "corinthian-pink",
+      "aconite-violet"
+    ],
+    "44": [
+      "light-porcelain-green",
+      "olympic-blue"
+    ],
+    "45": [
+      "seashell-pink",
+      "lemon-yellow"
+    ],
+    "46": [
+      "orange",
+      "black"
+    ],
+    "47": [
+      "etruscan-red",
+      "grayish-lavender-b"
+    ],
+    "48": [
+      "rosolanc-purple",
+      "helvetia-blue"
+    ],
+    "49": [
+      "pale-king-s-blue",
+      "blue"
+    ],
+    "50": [
+      "ivory-buff",
+      "dusky-madder-violet"
+    ],
+    "51": [
+      "carmine-red",
+      "blue"
+    ],
+    "52": [
+      "sulpher-yellow",
+      "black"
+    ],
+    "53": [
+      "yellow-orange",
+      "dusky-madder-violet"
+    ],
+    "54": [
+      "benzol-green",
+      "light-glaucous-blue"
+    ],
+    "55": [
+      "old-rose",
+      "white"
+    ],
+    "56": [
+      "grayish-lavender-b",
+      "violet"
+    ],
+    "57": [
+      "taupe-brown",
+      "slate-color"
+    ],
+    "58": [
+      "hay-s-russet",
+      "sea-green"
+    ],
+    "59": [
+      "eosine-pink",
+      "citrine"
+    ],
+    "60": [
+      "pale-lemon-yellow",
+      "dark-tyrian-blue"
+    ],
+    "61": [
+      "light-green-yellow",
+      "cotinga-purple"
+    ],
+    "62": [
+      "yellow",
+      "black"
+    ],
+    "63": [
+      "vistoris-lake",
+      "cerulian-blue"
+    ],
+    "64": [
+      "aconite-violet",
+      "dark-soft-violet"
+    ],
+    "65": [
+      "sulphine-yellow",
+      "calamine-blue"
+    ],
+    "66": [
+      "olive-ocher",
+      "olive-green"
+    ],
+    "67": [
+      "olympic-blue",
+      "dark-tyrian-blue"
+    ],
+    "68": [
+      "light-brown-drab",
+      "yellow"
+    ],
+    "69": [
+      "warm-gray",
+      "black"
+    ],
+    "70": [
+      "raw-sienna",
+      "lincoln-green"
+    ],
+    "71": [
+      "pompeian-red",
+      "ochraceous-salmon"
+    ],
+    "72": [
+      "sulpher-yellow",
+      "pale-king-s-blue"
+    ],
+    "73": [
+      "pale-raw-umber",
+      "rainette-green"
+    ],
+    "74": [
+      "turquoise-green",
+      "green-blue"
+    ],
+    "75": [
+      "pale-king-s-blue",
+      "violet-blue"
+    ],
+    "76": [
+      "pale-lemon-yellow",
+      "warm-gray"
+    ],
+    "77": [
+      "eugenia-red-b",
+      "vandar-poel-s-blue"
+    ],
+    "78": [
+      "pinkish-cinnamon",
+      "venice-green"
+    ],
+    "79": [
+      "madder-brown",
+      "green-blue"
+    ],
+    "80": [
+      "sulpher-yellow",
+      "light-mauve"
+    ],
+    "81": [
+      "golden-yellow",
+      "warm-gray"
+    ],
+    "82": [
+      "hay-s-russet",
+      "dusky-madder-violet"
+    ],
+    "83": [
+      "olive-buff",
+      "violet-blue"
+    ],
+    "84": [
+      "seashell-pink",
+      "deep-slate-green"
+    ],
+    "85": [
+      "vinaceous-tawny",
+      "antwarp-blue"
+    ],
+    "86": [
+      "raw-sienna",
+      "sea-green"
+    ],
+    "87": [
+      "corinthian-pink",
+      "citron-yellow"
+    ],
+    "88": [
+      "seashell-pink",
+      "blue"
+    ],
+    "89": [
+      "yellow-orange",
+      "violet-blue"
+    ],
+    "90": [
+      "eosine-pink",
+      "aconite-violet"
+    ],
+    "91": [
+      "vistoris-lake",
+      "orange-rufous"
+    ],
+    "92": [
+      "coral-red",
+      "benzol-green"
+    ],
+    "93": [
+      "citrine",
+      "light-glaucous-blue"
+    ],
+    "94": [
+      "ivory-buff",
+      "dusky-green"
+    ],
+    "95": [
+      "hay-s-russet",
+      "dull-violet-black"
+    ],
+    "96": [
+      "yellow-ocher",
+      "olive"
+    ],
+    "97": [
+      "corinthian-pink",
+      "etruscan-red"
+    ],
+    "98": [
+      "madder-brown",
+      "violet-blue"
+    ],
+    "99": [
+      "pale-lemon-yellow",
+      "cerulian-blue"
+    ],
+    "100": [
+      "buffy-citrine",
+      "dull-blue-violet"
+    ],
+    "101": [
+      "cameo-pink",
+      "deep-lyons-blue"
+    ],
+    "102": [
+      "ivory-buff",
+      "orange-rufous"
+    ],
+    "103": [
+      "cinnamon-rufous",
+      "dusky-madder-violet"
+    ],
+    "104": [
+      "carmine-red",
+      "sulpher-yellow"
+    ],
+    "105": [
+      "cameo-pink",
+      "chromium-green"
+    ],
+    "106": [
+      "antwarp-blue",
+      "dull-violet-black"
+    ],
+    "107": [
+      "apricot-yellow",
+      "light-grayish-olive"
+    ],
+    "108": [
+      "eosine-pink",
+      "brick-red"
+    ],
+    "109": [
+      "pale-lemon-yellow",
+      "blackish-olive"
+    ],
+    "110": [
+      "brown",
+      "vandyke-brown"
+    ],
+    "111": [
+      "pale-lemon-yellow",
+      "yellow-green"
+    ],
+    "112": [
+      "grenadine-pink",
+      "black"
+    ],
+    "113": [
+      "seashell-pink",
+      "vandyke-brown"
+    ],
+    "114": [
+      "orange-yellow",
+      "antwarp-blue"
+    ],
+    "115": [
+      "naples-yellow",
+      "peach-red"
+    ],
+    "116": [
+      "cameo-pink",
+      "blue-violet"
+    ],
+    "117": [
+      "carmine",
+      "black"
+    ],
+    "118": [
+      "yellow-ocher",
+      "vandyke-brown"
+    ],
+    "119": [
+      "light-glaucous-blue",
+      "dark-tyrian-blue"
+    ],
+    "120": [
+      "cameo-pink",
+      "pompeian-red"
+    ],
+    "121": [
+      "brown",
+      "ochraceous-salmon",
+      "lincoln-green"
+    ],
+    "122": [
+      "carmine",
+      "cream-yellow",
+      "benzol-green"
+    ],
+    "123": [
+      "coral-red",
+      "lemon-yellow",
+      "taupe-brown"
+    ],
+    "124": [
+      "pale-burnt-lake",
+      "yellow-ocher",
+      "olive-yellow"
+    ],
+    "125": [
+      "fawn",
+      "cerulian-blue",
+      "violet-blue"
+    ],
+    "126": [
+      "ivory-buff",
+      "yellow-ocher",
+      "deep-lyons-blue"
+    ],
+    "127": [
+      "cinnamon-buff",
+      "pistachio-green",
+      "dark-soft-violet"
+    ],
+    "128": [
+      "corinthian-pink",
+      "venice-green",
+      "light-mauve"
+    ],
+    "129": [
+      "apricot-yellow",
+      "khaki",
+      "salvia-blue"
+    ],
+    "130": [
+      "raw-sienna",
+      "carmine-red",
+      "violet"
+    ],
+    "131": [
+      "raw-sienna",
+      "english-red",
+      "peacock-blue"
+    ],
+    "132": [
+      "sulpher-yellow",
+      "golden-yellow",
+      "citrine"
+    ],
+    "133": [
+      "vandyke-red",
+      "citrine",
+      "sea-green"
+    ],
+    "134": [
+      "eosine-pink",
+      "light-mauve",
+      "red-violet"
+    ],
+    "135": [
+      "sulpher-yellow",
+      "cossack-green",
+      "salvia-blue"
+    ],
+    "136": [
+      "scarlet",
+      "dull-viridian-green",
+      "red-violet"
+    ],
+    "137": [
+      "etruscan-red",
+      "cinnamon-buff",
+      "pistachio-green"
+    ],
+    "138": [
+      "golden-yellow",
+      "lemon-yellow",
+      "venice-green"
+    ],
+    "139": [
+      "salvia-blue",
+      "deep-indigo",
+      "neutral-gray"
+    ],
+    "140": [
+      "golden-yellow",
+      "antwarp-blue",
+      "slate-color"
+    ],
+    "141": [
+      "orange",
+      "yellow-green",
+      "dark-tyrian-blue"
+    ],
+    "142": [
+      "hydrangea-red",
+      "sulphine-yellow",
+      "salvia-blue"
+    ],
+    "143": [
+      "blue",
+      "lilac",
+      "warm-gray"
+    ],
+    "144": [
+      "rosolanc-purple",
+      "orange",
+      "black"
+    ],
+    "145": [
+      "brown",
+      "citron-yellow",
+      "dull-violet-black"
+    ],
+    "146": [
+      "khaki",
+      "deep-grayish-olive",
+      "diamine-green"
+    ],
+    "147": [
+      "spinel-red",
+      "vandyke-red",
+      "turquoise-green"
+    ],
+    "148": [
+      "olive-ocher",
+      "orange-yellow",
+      "cerulian-blue"
+    ],
+    "149": [
+      "olive-ocher",
+      "orange",
+      "deep-slate-green"
+    ],
+    "150": [
+      "seashell-pink",
+      "citron-yellow",
+      "glaucous-green"
+    ],
+    "151": [
+      "sulpher-yellow",
+      "yellow-orange",
+      "vandar-poel-s-blue"
+    ],
+    "152": [
+      "etruscan-red",
+      "hay-s-russet",
+      "light-glaucous-blue"
+    ],
+    "153": [
+      "eosine-pink",
+      "orange-yellow",
+      "citron-yellow"
+    ],
+    "154": [
+      "carmine",
+      "yellow",
+      "blue"
+    ],
+    "155": [
+      "jasper-red",
+      "benzol-green",
+      "deep-indigo"
+    ],
+    "156": [
+      "olive-ocher",
+      "cobalt-green",
+      "violet"
+    ],
+    "157": [
+      "pansy-purple",
+      "olive-ocher",
+      "olympic-blue"
+    ],
+    "158": [
+      "lemon-yellow",
+      "cinnamon-rufous",
+      "night-green"
+    ],
+    "159": [
+      "khaki",
+      "calamine-blue",
+      "grayish-lavender-a"
+    ],
+    "160": [
+      "sulphine-yellow",
+      "pale-raw-umber",
+      "dark-medici-blue"
+    ],
+    "161": [
+      "brown",
+      "pinkish-cinnamon",
+      "helvetia-blue"
+    ],
+    "162": [
+      "old-rose",
+      "rainette-green",
+      "lilac"
+    ],
+    "163": [
+      "apricot-yellow",
+      "turquoise-green",
+      "antwarp-blue"
+    ],
+    "164": [
+      "red-orange",
+      "orange-yellow",
+      "violet"
+    ],
+    "165": [
+      "cameo-pink",
+      "spinel-red",
+      "vistoris-lake"
+    ],
+    "166": [
+      "grenadine-pink",
+      "naples-yellow",
+      "deep-slate-green"
+    ],
+    "167": [
+      "ecru",
+      "pale-king-s-blue",
+      "vandar-poel-s-blue"
+    ],
+    "168": [
+      "lemon-yellow",
+      "vandar-poel-s-blue",
+      "veronia-purple"
+    ],
+    "169": [
+      "corinthian-pink",
+      "pale-lemon-yellow",
+      "warm-gray"
+    ],
+    "170": [
+      "rosolanc-purple",
+      "orange-yellow",
+      "red-violet"
+    ],
+    "171": [
+      "pale-burnt-lake",
+      "yellow-orange",
+      "glaucous-green"
+    ],
+    "172": [
+      "cinnamon-rufous",
+      "antwarp-blue",
+      "red-violet"
+    ],
+    "173": [
+      "lemon-yellow",
+      "madder-brown",
+      "turquoise-green"
+    ],
+    "174": [
+      "corinthian-pink",
+      "grayish-lavender-b",
+      "taupe-brown"
+    ],
+    "175": [
+      "pinkish-cinnamon",
+      "olive-buff",
+      "blue-violet"
+    ],
+    "176": [
+      "hermosa-pink",
+      "seashell-pink",
+      "calamine-blue"
+    ],
+    "177": [
+      "pale-burnt-lake",
+      "buffy-citrine",
+      "grayish-lavender-a"
+    ],
+    "178": [
+      "ivory-buff",
+      "light-glaucous-blue",
+      "green-blue"
+    ],
+    "179": [
+      "red-orange",
+      "golden-yellow",
+      "deep-lyons-blue"
+    ],
+    "180": [
+      "cinnamon-buff",
+      "light-mauve",
+      "neutral-gray"
+    ],
+    "181": [
+      "carmine-red",
+      "violet",
+      "cotinga-purple"
+    ],
+    "182": [
+      "raw-sienna",
+      "vandyke-brown",
+      "deep-indigo"
+    ],
+    "183": [
+      "deep-violet-plumbeous",
+      "veronia-purple",
+      "red-violet"
+    ],
+    "184": [
+      "spinel-red",
+      "ivory-buff",
+      "light-grayish-olive"
+    ],
+    "185": [
+      "light-brown-drab",
+      "etruscan-red",
+      "pale-lemon-yellow"
+    ],
+    "186": [
+      "hay-s-russet",
+      "ochraceous-salmon",
+      "blue"
+    ],
+    "187": [
+      "helvetia-blue",
+      "grayish-lavender-b",
+      "aconite-violet"
+    ],
+    "188": [
+      "rainette-green",
+      "salvia-blue",
+      "cobalt-green"
+    ],
+    "189": [
+      "lemon-yellow",
+      "deep-slate-olive",
+      "venice-green"
+    ],
+    "190": [
+      "ivory-buff",
+      "english-red",
+      "black"
+    ],
+    "191": [
+      "light-brown-drab",
+      "yellow-ocher",
+      "blue"
+    ],
+    "192": [
+      "cream-yellow",
+      "vandyke-brown",
+      "deep-violet-plumbeous"
+    ],
+    "193": [
+      "grenadine-pink",
+      "naples-yellow",
+      "light-porcelain-green"
+    ],
+    "194": [
+      "jasper-red",
+      "seashell-pink",
+      "olympic-blue"
+    ],
+    "195": [
+      "spinel-red",
+      "pale-lemon-yellow",
+      "neutral-gray"
+    ],
+    "196": [
+      "citron-yellow",
+      "pale-king-s-blue",
+      "blue-violet"
+    ],
+    "197": [
+      "eosine-pink",
+      "dark-soft-violet",
+      "neutral-gray"
+    ],
+    "198": [
+      "burnt-sienna",
+      "apricot-yellow",
+      "green"
+    ],
+    "199": [
+      "ochre-red",
+      "light-brownish-olive",
+      "deep-lyons-blue"
+    ],
+    "200": [
+      "carmine-red",
+      "olive-buff",
+      "chromium-green"
+    ],
+    "201": [
+      "grenadine-pink",
+      "olive",
+      "cobalt-green"
+    ],
+    "202": [
+      "turquoise-green",
+      "cobalt-green",
+      "slate-color"
+    ],
+    "203": [
+      "pale-lemon-yellow",
+      "vinaceous-cinnamon",
+      "lincoln-green"
+    ],
+    "204": [
+      "rosolanc-purple",
+      "cinnamon-rufous",
+      "light-glaucous-blue"
+    ],
+    "205": [
+      "pale-burnt-lake",
+      "vinaceous-cinnamon",
+      "violet"
+    ],
+    "206": [
+      "corinthian-pink",
+      "golden-yellow",
+      "cinnamon-rufous"
+    ],
+    "207": [
+      "sudan-brown",
+      "glaucous-green",
+      "black"
+    ],
+    "208": [
+      "sulpher-yellow",
+      "green-blue",
+      "antwarp-blue"
+    ],
+    "209": [
+      "ivory-buff",
+      "yellow-orange",
+      "salvia-blue"
+    ],
+    "210": [
+      "cinnamon-buff",
+      "lemon-yellow",
+      "lincoln-green"
+    ],
+    "211": [
+      "apricot-orange",
+      "olive-yellow",
+      "deep-indigo"
+    ],
+    "212": [
+      "pompeian-red",
+      "orange-citrine",
+      "salvia-blue"
+    ],
+    "213": [
+      "vinaceous-cinnamon",
+      "apricot-yellow",
+      "pale-king-s-blue"
+    ],
+    "214": [
+      "ivory-buff",
+      "sudan-brown",
+      "violet"
+    ],
+    "215": [
+      "cream-yellow",
+      "blue",
+      "eupatorium-purple"
+    ],
+    "216": [
+      "jasper-red",
+      "green",
+      "black"
+    ],
+    "217": [
+      "pale-burnt-lake",
+      "ochraceous-salmon",
+      "diamine-green"
+    ],
+    "218": [
+      "helvetia-blue",
+      "grayish-lavender-a",
+      "deep-violet-plumbeous"
+    ],
+    "219": [
+      "jasper-red",
+      "chromium-green",
+      "dusky-green"
+    ],
+    "220": [
+      "pomegranite-purple",
+      "ochraceous-salmon",
+      "aconite-violet"
+    ],
+    "221": [
+      "carmine-red",
+      "neutral-gray",
+      "black"
+    ],
+    "222": [
+      "yellow-ocher",
+      "yellow-orange",
+      "orange-rufous"
+    ],
+    "223": [
+      "light-brown-drab",
+      "ochraceous-salmon",
+      "turquoise-green"
+    ],
+    "224": [
+      "spinel-red",
+      "dark-medici-blue",
+      "taupe-brown"
+    ],
+    "225": [
+      "carmine",
+      "dusky-green",
+      "dark-slate-purple"
+    ],
+    "226": [
+      "vistoris-lake",
+      "cream-yellow",
+      "violet"
+    ],
+    "227": [
+      "hermosa-pink",
+      "light-glaucous-blue",
+      "cerulian-blue"
+    ],
+    "228": [
+      "carmine-red",
+      "pale-lemon-yellow",
+      "neutral-gray"
+    ],
+    "229": [
+      "golden-yellow",
+      "deep-slate-olive",
+      "neutral-gray"
+    ],
+    "230": [
+      "grenadine-pink",
+      "turquoise-green",
+      "cobalt-green"
+    ],
+    "231": [
+      "cameo-pink",
+      "hay-s-russet",
+      "olympic-blue"
+    ],
+    "232": [
+      "carmine",
+      "pinkish-cinnamon",
+      "deep-indigo"
+    ],
+    "233": [
+      "carmine-red",
+      "buffy-citrine",
+      "violet-blue"
+    ],
+    "234": [
+      "cinnamon-buff",
+      "pale-raw-umber",
+      "pale-king-s-blue"
+    ],
+    "235": [
+      "ivory-buff",
+      "yellow-orange",
+      "grayish-lavender-b"
+    ],
+    "236": [
+      "khaki",
+      "deep-lyons-blue",
+      "purple-drab"
+    ],
+    "237": [
+      "carmine-red",
+      "madder-brown",
+      "salvia-blue"
+    ],
+    "238": [
+      "ochraceous-salmon",
+      "cotinga-purple",
+      "warm-gray"
+    ],
+    "239": [
+      "light-brown-drab",
+      "pyrite-yellow",
+      "glaucous-green"
+    ],
+    "240": [
+      "fresh-color",
+      "yellow",
+      "cerulian-blue"
+    ],
+    "241": [
+      "red-orange",
+      "pale-lemon-yellow",
+      "isabella-color",
+      "dark-medici-blue"
+    ],
+    "242": [
+      "eosine-pink",
+      "burnt-sienna",
+      "diamine-green",
+      "black"
+    ],
+    "243": [
+      "raw-sienna",
+      "ivory-buff",
+      "olive-green",
+      "slate-color"
+    ],
+    "244": [
+      "light-brown-drab",
+      "vinaceous-tawny",
+      "andover-green",
+      "antwarp-blue"
+    ],
+    "245": [
+      "carmine-red",
+      "oil-green",
+      "dark-tyrian-blue",
+      "slate-color"
+    ],
+    "246": [
+      "corinthian-pink",
+      "brick-red",
+      "sulpher-yellow",
+      "cinnamon-buff"
+    ],
+    "247": [
+      "raw-sienna",
+      "apricot-yellow",
+      "benzol-green",
+      "deep-lyons-blue"
+    ],
+    "248": [
+      "eosine-pink",
+      "khaki",
+      "grayish-lavender-a",
+      "dark-slate-purple"
+    ],
+    "249": [
+      "hay-s-russet",
+      "ecru",
+      "olive-ocher",
+      "dark-medici-blue"
+    ],
+    "250": [
+      "pyrite-yellow",
+      "peach-red",
+      "sea-green",
+      "nile-blue"
+    ],
+    "251": [
+      "red",
+      "yellow",
+      "diamine-green",
+      "slate-color"
+    ],
+    "252": [
+      "eugenia-red-b",
+      "raw-sienna",
+      "sulphine-yellow",
+      "green-blue"
+    ],
+    "253": [
+      "lemon-yellow",
+      "apricot-orange",
+      "cotinga-purple",
+      "slate-color"
+    ],
+    "254": [
+      "corinthian-pink",
+      "sulpher-yellow",
+      "olive",
+      "laelia-pink"
+    ],
+    "255": [
+      "raw-sienna",
+      "pyrite-yellow",
+      "calamine-blue",
+      "black"
+    ],
+    "256": [
+      "vinaceous-cinnamon",
+      "orange",
+      "dull-viridian-green",
+      "black"
+    ],
+    "257": [
+      "spectrum-red",
+      "orange-yellow",
+      "blue",
+      "aconite-violet"
+    ],
+    "258": [
+      "pale-burnt-lake",
+      "pinkish-cinnamon",
+      "olive",
+      "antwarp-blue"
+    ],
+    "259": [
+      "lemon-yellow",
+      "green-blue",
+      "helvetia-blue",
+      "warm-gray"
+    ],
+    "260": [
+      "old-rose",
+      "vinaceous-cinnamon",
+      "glaucous-green",
+      "sea-green"
+    ],
+    "261": [
+      "red",
+      "pale-lemon-yellow",
+      "calamine-blue",
+      "warm-gray"
+    ],
+    "262": [
+      "eugenia-red-b",
+      "ivory-buff",
+      "citrine",
+      "cossack-green"
+    ],
+    "263": [
+      "burnt-sienna",
+      "pinkish-cinnamon",
+      "turquoise-green",
+      "slate-color"
+    ],
+    "264": [
+      "corinthian-pink",
+      "red-orange",
+      "dark-greenish-glaucous",
+      "cerulian-blue"
+    ],
+    "265": [
+      "old-rose",
+      "apricot-yellow",
+      "olive-yellow",
+      "dull-violet-black"
+    ],
+    "266": [
+      "spectrum-red",
+      "ivory-buff",
+      "rainette-green",
+      "benzol-green"
+    ],
+    "267": [
+      "cream-yellow",
+      "yellow-orange",
+      "benzol-green",
+      "blue"
+    ],
+    "268": [
+      "light-brown-drab",
+      "raw-sienna",
+      "deep-slate-olive",
+      "nile-blue"
+    ],
+    "269": [
+      "raw-sienna",
+      "pale-burnt-lake",
+      "aconite-violet",
+      "black"
+    ],
+    "270": [
+      "eugenia-red-b",
+      "sulpher-yellow",
+      "olive-green",
+      "cossack-green"
+    ],
+    "271": [
+      "pomegranite-purple",
+      "cobalt-green",
+      "green-blue",
+      "deep-slate-green"
+    ],
+    "272": [
+      "pale-lemon-yellow",
+      "orange",
+      "turquoise-green",
+      "salvia-blue"
+    ],
+    "273": [
+      "hermosa-pink",
+      "pansy-purple",
+      "sudan-brown",
+      "neutral-gray"
+    ],
+    "274": [
+      "peach-red",
+      "dark-citrine",
+      "olympic-blue",
+      "light-mauve"
+    ],
+    "275": [
+      "etruscan-red",
+      "ecru",
+      "madder-brown",
+      "taupe-brown"
+    ],
+    "276": [
+      "eosine-pink",
+      "seashell-pink",
+      "yellow-green",
+      "black"
+    ],
+    "277": [
+      "spinel-red",
+      "rosolanc-purple",
+      "olive",
+      "dull-violet-black"
+    ],
+    "278": [
+      "cream-yellow",
+      "olive-ocher",
+      "cossack-green",
+      "dusky-green"
+    ],
+    "279": [
+      "raw-sienna",
+      "vinaceous-cinnamon",
+      "ecru",
+      "dark-tyrian-blue"
+    ],
+    "280": [
+      "eugenia-red-b",
+      "lincoln-green",
+      "laelia-pink",
+      "taupe-brown"
+    ],
+    "281": [
+      "pale-lemon-yellow",
+      "benzol-green",
+      "cobalt-green",
+      "antwarp-blue"
+    ],
+    "282": [
+      "eugenia-red-b",
+      "maple",
+      "cobalt-green",
+      "lilac"
+    ],
+    "283": [
+      "ochre-red",
+      "pale-burnt-lake",
+      "chromium-green",
+      "venice-green"
+    ],
+    "284": [
+      "eugenia-red-a",
+      "apricot-yellow",
+      "sea-green",
+      "dusky-green"
+    ],
+    "285": [
+      "light-brown-drab",
+      "burnt-sienna",
+      "peach-red",
+      "turquoise-green"
+    ],
+    "286": [
+      "burnt-sienna",
+      "orange-yellow",
+      "peacock-blue",
+      "violet-blue"
+    ],
+    "287": [
+      "eosine-pink",
+      "pyrite-yellow",
+      "pale-king-s-blue",
+      "calamine-blue"
+    ],
+    "288": [
+      "yellow-orange",
+      "sepia",
+      "taupe-brown",
+      "black"
+    ],
+    "289": [
+      "lemon-yellow",
+      "light-green-yellow",
+      "violet-blue",
+      "dull-violet-black"
+    ],
+    "290": [
+      "vistoris-lake",
+      "pale-lemon-yellow",
+      "lincoln-green",
+      "cobalt-green"
+    ],
+    "291": [
+      "light-green-yellow",
+      "sea-green",
+      "cobalt-green",
+      "calamine-blue"
+    ],
+    "292": [
+      "pale-lemon-yellow",
+      "pinkish-cinnamon",
+      "isabella-color",
+      "ecru"
+    ],
+    "293": [
+      "raw-sienna",
+      "turquoise-green",
+      "artemesia-green",
+      "green"
+    ],
+    "294": [
+      "sulpher-yellow",
+      "cream-yellow",
+      "cossack-green",
+      "salvia-blue"
+    ],
+    "295": [
+      "cream-yellow",
+      "yellow",
+      "blue",
+      "dull-violet-black"
+    ],
+    "296": [
+      "sulpher-yellow",
+      "ochraceous-salmon",
+      "pale-raw-umber",
+      "slate-color"
+    ],
+    "297": [
+      "burnt-sienna",
+      "yellow-orange",
+      "olive-green",
+      "violet-blue"
+    ],
+    "298": [
+      "raw-sienna",
+      "lemon-yellow",
+      "peach-red",
+      "black"
+    ],
+    "299": [
+      "indian-lake",
+      "vinaceous-cinnamon",
+      "oil-green",
+      "antwarp-blue"
+    ],
+    "300": [
+      "grenadine-pink",
+      "cream-yellow",
+      "turquoise-green",
+      "calamine-blue"
+    ],
+    "301": [
+      "spectrum-red",
+      "ivory-buff",
+      "rainette-green",
+      "aconite-violet"
+    ],
+    "302": [
+      "cream-yellow",
+      "ecru",
+      "nile-blue",
+      "antwarp-blue"
+    ],
+    "303": [
+      "naples-yellow",
+      "peach-red",
+      "deep-slate-olive",
+      "neutral-gray"
+    ],
+    "304": [
+      "hay-s-russet",
+      "cream-yellow",
+      "dark-citrine",
+      "benzol-green"
+    ],
+    "305": [
+      "pinkish-cinnamon",
+      "apricot-yellow",
+      "citron-yellow",
+      "turquoise-green"
+    ],
+    "306": [
+      "lemon-yellow",
+      "benzol-green",
+      "dull-viridian-green",
+      "nile-blue"
+    ],
+    "307": [
+      "carmine",
+      "grayish-lavender-a",
+      "aconite-violet",
+      "cotinga-purple"
+    ],
+    "308": [
+      "fawn",
+      "scarlet",
+      "english-red",
+      "cobalt-green"
+    ],
+    "309": [
+      "golden-yellow",
+      "apricot-orange",
+      "violet-blue",
+      "vandar-poel-s-blue"
+    ],
+    "310": [
+      "sulpher-yellow",
+      "pinkish-cinnamon",
+      "olive",
+      "deep-slate-olive"
+    ],
+    "311": [
+      "pompeian-red",
+      "cream-yellow",
+      "dark-greenish-glaucous",
+      "light-green-yellow"
+    ],
+    "312": [
+      "burnt-sienna",
+      "yellow-orange",
+      "artemesia-green",
+      "helvetia-blue"
+    ],
+    "313": [
+      "carmine",
+      "yellow",
+      "diamine-green",
+      "black"
+    ],
+    "314": [
+      "eosine-pink",
+      "hay-s-russet",
+      "deep-lyons-blue",
+      "dusky-madder-violet"
+    ],
+    "315": [
+      "grenadine-pink",
+      "sulpher-yellow",
+      "golden-yellow",
+      "eupatorium-purple"
+    ],
+    "316": [
+      "vandyke-red",
+      "dull-viridian-green",
+      "violet",
+      "red-violet"
+    ],
+    "317": [
+      "light-pinkish-cinnamon",
+      "ecru",
+      "lemon-yellow",
+      "turquoise-green"
+    ],
+    "318": [
+      "light-brownish-olive",
+      "blackish-olive",
+      "dusky-green",
+      "deep-slate-green"
+    ],
+    "319": [
+      "raw-sienna",
+      "apricot-yellow",
+      "yellow-orange",
+      "cossack-green"
+    ],
+    "320": [
+      "coral-red",
+      "sulpher-yellow",
+      "oil-green",
+      "light-glaucous-blue"
+    ],
+    "321": [
+      "light-brown-drab",
+      "sulpher-yellow",
+      "deep-slate-olive",
+      "salvia-blue"
+    ],
+    "322": [
+      "spectrum-red",
+      "brick-red",
+      "eupatorium-purple",
+      "blue-violet"
+    ],
+    "323": [
+      "cinnamon-buff",
+      "citron-yellow",
+      "madder-brown",
+      "black"
+    ],
+    "324": [
+      "pompeian-red",
+      "olympic-blue",
+      "aconite-violet",
+      "neutral-gray"
+    ],
+    "325": [
+      "eugenia-red-b",
+      "naples-yellow",
+      "yellow-ocher",
+      "deep-slate-green"
+    ],
+    "326": [
+      "sulpher-yellow",
+      "peach-red",
+      "yellow-green",
+      "night-green"
+    ],
+    "327": [
+      "eosine-pink",
+      "raw-sienna",
+      "ecru",
+      "grayish-lavender-b"
+    ],
+    "328": [
+      "brick-red",
+      "apricot-orange",
+      "vandyke-brown",
+      "light-porcelain-green"
+    ],
+    "329": [
+      "cream-yellow",
+      "grayish-lavender-b",
+      "cotinga-purple",
+      "slate-color"
+    ],
+    "330": [
+      "olive-buff",
+      "nile-blue",
+      "salvia-blue",
+      "green-blue"
+    ],
+    "331": [
+      "indian-lake",
+      "dull-violet-black",
+      "light-mauve",
+      "violet"
+    ],
+    "332": [
+      "coral-red",
+      "scarlet",
+      "deep-slate-olive",
+      "dusky-green"
+    ],
+    "333": [
+      "burnt-sienna",
+      "lemon-yellow",
+      "cobalt-green",
+      "blue"
+    ],
+    "334": [
+      "seashell-pink",
+      "olive",
+      "yellow-green",
+      "antwarp-blue"
+    ],
+    "335": [
+      "vandyke-red",
+      "yellow-orange",
+      "violet",
+      "slate-color"
+    ],
+    "336": [
+      "eosine-pink",
+      "hay-s-russet",
+      "pale-lemon-yellow",
+      "blackish-olive"
+    ],
+    "337": [
+      "vistoris-lake",
+      "laelia-pink",
+      "violet-carmine",
+      "black"
+    ],
+    "338": [
+      "carmine-red",
+      "orange-yellow",
+      "dusky-green",
+      "grayish-lavender-b"
+    ],
+    "339": [
+      "ochraceous-salmon",
+      "english-red",
+      "light-glaucous-blue",
+      "violet-blue"
+    ],
+    "340": [
+      "peach-red",
+      "sea-green",
+      "neutral-gray",
+      "black"
+    ],
+    "341": [
+      "grenadine-pink",
+      "cossack-green",
+      "deep-slate-olive",
+      "light-glaucous-blue"
+    ],
+    "342": [
+      "corinthian-pink",
+      "cream-yellow",
+      "orange-citrine",
+      "deep-slate-olive"
+    ],
+    "343": [
+      "burnt-sienna",
+      "ivory-buff",
+      "deep-grayish-olive",
+      "vandar-poel-s-blue"
+    ],
+    "344": [
+      "cinnamon-buff",
+      "deep-lyons-blue",
+      "aconite-violet",
+      "black"
+    ],
+    "345": [
+      "hay-s-russet",
+      "nile-blue",
+      "venice-green",
+      "blue-violet"
+    ],
+    "346": [
+      "rosolanc-purple",
+      "turquoise-green",
+      "light-green-yellow",
+      "andover-green"
+    ],
+    "347": [
+      "olive-yellow",
+      "sea-green",
+      "helvetia-blue",
+      "lilac"
+    ],
+    "348": [
+      "olive-buff",
+      "cossack-green",
+      "deep-slate-olive",
+      "cotinga-purple"
+    ]
+  }
+}
